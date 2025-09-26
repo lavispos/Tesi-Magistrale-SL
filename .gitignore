@@ -1,0 +1,19 @@
+# dataset e output
+data/
+logs/
+reports/
+runs/
+wandb/
+
+# pesi e modelli
+*.h5
+*.keras
+*.weights.h5
+*.ckpt
+*.pt
+*.onnx
+
+# cache e sistema
+__pycache__/
+*.pyc
+.DS_Store
