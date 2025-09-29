@@ -1,4 +1,8 @@
 # Tesi-Magistrale-SL
+## Repository structure
+
+```text
+
 .
 ├─ scripts/       
 │  ├─ eval/
