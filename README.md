@@ -30,6 +30,7 @@
 │  │  ├─ MobileNetV2_4.py                     # training baseline + fine-tuning
 │  │  ├─ mitig_equalized_odds_postproc.py     # mitigation using Equalized Odds (post-processing)
 │  │  ├─ mitigation_adv1.py                   # mitigation using Adversarial Debiasing (in-process)
+│  │  ├─ mitigation_groupDRO2.py              # mitigation using Group Distrubutionally Robust Optimization (in-process)
 │  │  ├─ mitigation_oversampling3.py.py       # mitigation using Oversampling (pre-processing)
 │  │  ├─ mitigation_reweight2.py              # mitigation using Reweight (pre-processing)
 │  │  └─ README.md
